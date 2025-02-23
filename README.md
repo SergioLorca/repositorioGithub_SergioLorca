@@ -1,2 +1,2 @@
 # repositorioGithub_SergioLorca
-repositorio para practica despliegues
+Este es el repositorio para despliegue de apps web de DAW
